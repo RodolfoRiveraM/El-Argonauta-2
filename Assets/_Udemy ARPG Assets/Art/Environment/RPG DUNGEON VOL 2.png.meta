@@ -1,0 +1,3608 @@
+fileFormatVersion: 2
+guid: 8b494d90a58d86b4f9355938067b788f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5895174849087338407
+    second: RPG DUNGEON VOL 2_0
+  - first:
+      213: 8707184618901798706
+    second: RPG DUNGEON VOL 2_1
+  - first:
+      213: -783618273021911242
+    second: RPG DUNGEON VOL 2_2
+  - first:
+      213: 4477574117635639451
+    second: RPG DUNGEON VOL 2_3
+  - first:
+      213: 3476167954764766986
+    second: RPG DUNGEON VOL 2_4
+  - first:
+      213: 4310696492296492729
+    second: RPG DUNGEON VOL 2_5
+  - first:
+      213: 4072437202884560357
+    second: RPG DUNGEON VOL 2_6
+  - first:
+      213: 1737325726179534465
+    second: RPG DUNGEON VOL 2_7
+  - first:
+      213: 107237001629597831
+    second: RPG DUNGEON VOL 2_8
+  - first:
+      213: -2964218227579418387
+    second: RPG DUNGEON VOL 2_9
+  - first:
+      213: 4908547837313415067
+    second: RPG DUNGEON VOL 2_10
+  - first:
+      213: 1790037859311801429
+    second: RPG DUNGEON VOL 2_11
+  - first:
+      213: -809767734039968649
+    second: RPG DUNGEON VOL 2_12
+  - first:
+      213: 4501743357114862752
+    second: RPG DUNGEON VOL 2_13
+  - first:
+      213: 1676343025706166955
+    second: RPG DUNGEON VOL 2_14
+  - first:
+      213: -5390642988858901922
+    second: RPG DUNGEON VOL 2_15
+  - first:
+      213: -2972153512127276540
+    second: RPG DUNGEON VOL 2_16
+  - first:
+      213: -6384409326789443151
+    second: RPG DUNGEON VOL 2_17
+  - first:
+      213: -8658329482390500046
+    second: RPG DUNGEON VOL 2_18
+  - first:
+      213: -7240374034503284878
+    second: RPG DUNGEON VOL 2_19
+  - first:
+      213: 1335727537499705850
+    second: RPG DUNGEON VOL 2_20
+  - first:
+      213: 3551391287988506729
+    second: RPG DUNGEON VOL 2_21
+  - first:
+      213: 2142412483674377986
+    second: RPG DUNGEON VOL 2_22
+  - first:
+      213: 8484822503218459526
+    second: RPG DUNGEON VOL 2_23
+  - first:
+      213: 6053585521383742908
+    second: RPG DUNGEON VOL 2_24
+  - first:
+      213: 4740767103041530886
+    second: RPG DUNGEON VOL 2_25
+  - first:
+      213: 5163598488062885325
+    second: RPG DUNGEON VOL 2_26
+  - first:
+      213: -279176244640688237
+    second: RPG DUNGEON VOL 2_27
+  - first:
+      213: 3914469071488845273
+    second: RPG DUNGEON VOL 2_28
+  - first:
+      213: 5337895649412897851
+    second: RPG DUNGEON VOL 2_29
+  - first:
+      213: 81316014726794188
+    second: RPG DUNGEON VOL 2_30
+  - first:
+      213: -935131592005160071
+    second: RPG DUNGEON VOL 2_31
+  - first:
+      213: 4438043800431769838
+    second: RPG DUNGEON VOL 2_32
+  - first:
+      213: -2439414899926856434
+    second: RPG DUNGEON VOL 2_33
+  - first:
+      213: 2226400906769280429
+    second: RPG DUNGEON VOL 2_34
+  - first:
+      213: -5532775798275759587
+    second: RPG DUNGEON VOL 2_35
+  - first:
+      213: -5852586275350157660
+    second: RPG DUNGEON VOL 2_36
+  - first:
+      213: 2205491769463397589
+    second: RPG DUNGEON VOL 2_37
+  - first:
+      213: 5657913909566974856
+    second: RPG DUNGEON VOL 2_38
+  - first:
+      213: 3473649691905743117
+    second: RPG DUNGEON VOL 2_39
+  - first:
+      213: -2298821027361114087
+    second: RPG DUNGEON VOL 2_40
+  - first:
+      213: -7650449580424753838
+    second: RPG DUNGEON VOL 2_41
+  - first:
+      213: -7104548490050332934
+    second: RPG DUNGEON VOL 2_42
+  - first:
+      213: 6328931943835795485
+    second: RPG DUNGEON VOL 2_43
+  - first:
+      213: 6886953342911418911
+    second: RPG DUNGEON VOL 2_44
+  - first:
+      213: 3871059077398972840
+    second: RPG DUNGEON VOL 2_45
+  - first:
+      213: 4766933575232883832
+    second: RPG DUNGEON VOL 2_46
+  - first:
+      213: -4945740594618461289
+    second: RPG DUNGEON VOL 2_47
+  - first:
+      213: 3710244032006378413
+    second: RPG DUNGEON VOL 2_48
+  - first:
+      213: -6746841678138874970
+    second: RPG DUNGEON VOL 2_49
+  - first:
+      213: -3840991583377492597
+    second: RPG DUNGEON VOL 2_50
+  - first:
+      213: 7309843870673192515
+    second: RPG DUNGEON VOL 2_51
+  - first:
+      213: -5120959699032570776
+    second: RPG DUNGEON VOL 2_52
+  - first:
+      213: -3183115834809339854
+    second: RPG DUNGEON VOL 2_53
+  - first:
+      213: 5253000839246297959
+    second: RPG DUNGEON VOL 2_54
+  - first:
+      213: -7939199693707137059
+    second: RPG DUNGEON VOL 2_55
+  - first:
+      213: 3846058537431491454
+    second: RPG DUNGEON VOL 2_56
+  - first:
+      213: 3097940350666656222
+    second: RPG DUNGEON VOL 2_57
+  - first:
+      213: 44972939218330533
+    second: RPG DUNGEON VOL 2_58
+  - first:
+      213: -6920133729738033070
+    second: RPG DUNGEON VOL 2_59
+  - first:
+      213: -5367851140546163972
+    second: RPG DUNGEON VOL 2_60
+  - first:
+      213: 4754181830594219978
+    second: RPG DUNGEON VOL 2_61
+  - first:
+      213: -1664251840661914335
+    second: RPG DUNGEON VOL 2_62
+  - first:
+      213: -4557412342600395098
+    second: RPG DUNGEON VOL 2_63
+  - first:
+      213: 989683715604789452
+    second: RPG DUNGEON VOL 2_64
+  - first:
+      213: 1115328233212867174
+    second: RPG DUNGEON VOL 2_65
+  - first:
+      213: 1445744989984878133
+    second: RPG DUNGEON VOL 2_66
+  - first:
+      213: 1931571660459074991
+    second: RPG DUNGEON VOL 2_67
+  - first:
+      213: 1414287909058760631
+    second: RPG DUNGEON VOL 2_68
+  - first:
+      213: 6329759867446401415
+    second: RPG DUNGEON VOL 2_69
+  - first:
+      213: 3182955066244956122
+    second: RPG DUNGEON VOL 2_70
+  - first:
+      213: 1588640241689673046
+    second: RPG DUNGEON VOL 2_71
+  - first:
+      213: 3701928778400346099
+    second: RPG DUNGEON VOL 2_72
+  - first:
+      213: -8887114877922972766
+    second: RPG DUNGEON VOL 2_73
+  - first:
+      213: 6504398447849676850
+    second: RPG DUNGEON VOL 2_74
+  - first:
+      213: -5366806297229095251
+    second: RPG DUNGEON VOL 2_75
+  - first:
+      213: -159746421994686239
+    second: RPG DUNGEON VOL 2_76
+  - first:
+      213: -8800853569839190426
+    second: RPG DUNGEON VOL 2_77
+  - first:
+      213: -3132830934074905633
+    second: RPG DUNGEON VOL 2_78
+  - first:
+      213: 7675495102536296596
+    second: RPG DUNGEON VOL 2_79
+  - first:
+      213: 184976211595181150
+    second: RPG DUNGEON VOL 2_80
+  - first:
+      213: 5390861001494323391
+    second: RPG DUNGEON VOL 2_81
+  - first:
+      213: 3773263403589750097
+    second: RPG DUNGEON VOL 2_82
+  - first:
+      213: -889299897650955729
+    second: RPG DUNGEON VOL 2_83
+  - first:
+      213: -5202667495910237448
+    second: RPG DUNGEON VOL 2_84
+  - first:
+      213: 2126300163343157772
+    second: RPG DUNGEON VOL 2_85
+  - first:
+      213: 836557989434047345
+    second: RPG DUNGEON VOL 2_86
+  - first:
+      213: 7205774199924731078
+    second: RPG DUNGEON VOL 2_87
+  - first:
+      213: 6299396212302152530
+    second: RPG DUNGEON VOL 2_88
+  - first:
+      213: -4740500835112776953
+    second: RPG DUNGEON VOL 2_89
+  - first:
+      213: -7714286905220575188
+    second: RPG DUNGEON VOL 2_90
+  - first:
+      213: 2261799549291385163
+    second: RPG DUNGEON VOL 2_91
+  - first:
+      213: -6483387192895100559
+    second: RPG DUNGEON VOL 2_92
+  - first:
+      213: 7856535403957271248
+    second: RPG DUNGEON VOL 2_93
+  - first:
+      213: 8219340349348231069
+    second: RPG DUNGEON VOL 2_94
+  - first:
+      213: 308420783156250125
+    second: RPG DUNGEON VOL 2_95
+  - first:
+      213: -678787982974954615
+    second: RPG DUNGEON VOL 2_96
+  - first:
+      213: -2279432730712202580
+    second: RPG DUNGEON VOL 2_97
+  - first:
+      213: 8315567303188762627
+    second: RPG DUNGEON VOL 2_98
+  - first:
+      213: 720340770764582571
+    second: RPG DUNGEON VOL 2_99
+  - first:
+      213: -552764044034289446
+    second: RPG DUNGEON VOL 2_100
+  - first:
+      213: -2797415081102646686
+    second: RPG DUNGEON VOL 2_101
+  - first:
+      213: -72730404955609693
+    second: RPG DUNGEON VOL 2_102
+  - first:
+      213: 4338933636450421408
+    second: RPG DUNGEON VOL 2_103
+  - first:
+      213: 5113436456973041157
+    second: RPG DUNGEON VOL 2_104
+  - first:
+      213: 5693286279317565743
+    second: RPG DUNGEON VOL 2_105
+  - first:
+      213: -3009433733519982076
+    second: RPG DUNGEON VOL 2_106
+  - first:
+      213: 5324449633149517036
+    second: RPG DUNGEON VOL 2_107
+  - first:
+      213: 6718170575734337795
+    second: RPG DUNGEON VOL 2_108
+  - first:
+      213: -7436757417182885071
+    second: RPG DUNGEON VOL 2_109
+  - first:
+      213: 3031577056009002685
+    second: RPG DUNGEON VOL 2_110
+  - first:
+      213: 6607953783178366736
+    second: RPG DUNGEON VOL 2_111
+  - first:
+      213: -6667102808831674027
+    second: RPG DUNGEON VOL 2_112
+  - first:
+      213: -8803510361045089489
+    second: RPG DUNGEON VOL 2_113
+  - first:
+      213: 1979683910638921071
+    second: RPG DUNGEON VOL 2_114
+  - first:
+      213: -6238753040086111244
+    second: RPG DUNGEON VOL 2_115
+  - first:
+      213: -4792890608427662242
+    second: RPG DUNGEON VOL 2_116
+  - first:
+      213: 6242398411342616728
+    second: RPG DUNGEON VOL 2_117
+  - first:
+      213: 7259428477795082674
+    second: RPG DUNGEON VOL 2_118
+  - first:
+      213: -8285527238397706933
+    second: RPG DUNGEON VOL 2_119
+  - first:
+      213: -268068919138706788
+    second: RPG DUNGEON VOL 2_120
+  - first:
+      213: -3264500793646898101
+    second: RPG DUNGEON VOL 2_121
+  - first:
+      213: -4689990677070038028
+    second: RPG DUNGEON VOL 2_122
+  - first:
+      213: -1822423775856405367
+    second: RPG DUNGEON VOL 2_123
+  - first:
+      213: 8547051026343826592
+    second: RPG DUNGEON VOL 2_124
+  - first:
+      213: 4911337658097769603
+    second: RPG DUNGEON VOL 2_125
+  - first:
+      213: -19808152521006136
+    second: RPG DUNGEON VOL 2_126
+  - first:
+      213: 1049422025036936211
+    second: RPG DUNGEON VOL 2_127
+  - first:
+      213: 514380811457555111
+    second: RPG DUNGEON VOL 2_128
+  - first:
+      213: -6826439904161141466
+    second: RPG DUNGEON VOL 2_129
+  - first:
+      213: 3505515553660365977
+    second: RPG DUNGEON VOL 2_130
+  - first:
+      213: -3202378207664412967
+    second: RPG DUNGEON VOL 2_131
+  - first:
+      213: 7400456028503139905
+    second: RPG DUNGEON VOL 2_132
+  - first:
+      213: -7722539983683377202
+    second: RPG DUNGEON VOL 2_133
+  - first:
+      213: -2829565277231682676
+    second: RPG DUNGEON VOL 2_134
+  - first:
+      213: 188258678194419764
+    second: RPG DUNGEON VOL 2_135
+  - first:
+      213: -3544183099900682041
+    second: RPG DUNGEON VOL 2_136
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958055f65b1203ea0800000000000000
+      internalID: -5895174849087338407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff26b374226d870800000000000000
+      internalID: 8707184618901798706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f160d15570025f0800000000000000
+      internalID: -783618273021911242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c721dfe9832e30800000000000000
+      internalID: 4477574117635639451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f995b5654dd3030800000000000000
+      internalID: 3476167954764766986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6dad5ee9ba2db30800000000000000
+      internalID: 4310696492296492729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e505003f04348830800000000000000
+      internalID: 4072437202884560357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18624101b883c1810800000000000000
+      internalID: 1737325726179534465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78009ec1c7bfc7100800000000000000
+      internalID: 107237001629597831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de804642a3bfcd6d0800000000000000
+      internalID: -2964218227579418387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f31e504aae1440800000000000000
+      internalID: 4908547837313415067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d7c2f2fd77d810800000000000000
+      internalID: 1790037859311801429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77489f5498023c4f0800000000000000
+      internalID: -809767734039968649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac4ec66bb7697e30800000000000000
+      internalID: 4501743357114862752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6be8a911934710800000000000000
+      internalID: 1676343025706166955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7d1233c69035b0800000000000000
+      internalID: -5390642988858901922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a59bbb02ac0c6d0800000000000000
+      internalID: -2972153512127276540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b146081b850667a0800000000000000
+      internalID: -6384409326789443151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d82d5a53f67d780800000000000000
+      internalID: -8658329482390500046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27748704d26058b90800000000000000
+      internalID: -7240374034503284878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1906d4e15798210800000000000000
+      internalID: 1335727537499705850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d8f27f83194130800000000000000
+      internalID: 3551391287988506729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f06cb8dc06bbd10800000000000000
+      internalID: 2142412483674377986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b396bc1520c570800000000000000
+      internalID: 8484822503218459526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd968b55f7a20450800000000000000
+      internalID: 6053585521383742908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ce5a300969ac140800000000000000
+      internalID: 4740767103041530886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7bbb8779c8a740800000000000000
+      internalID: 5163598488062885325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d6744faa202cf0800000000000000
+      internalID: -279176244640688237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5885a71ecf25630800000000000000
+      internalID: 3914469071488845273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cdb5fcfc3041a40800000000000000
+      internalID: 5337895649412897851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb475c0c74e02100800000000000000
+      internalID: 81316014726794188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973794885ceb503f0800000000000000
+      internalID: -935131592005160071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83c5e9259179d30800000000000000
+      internalID: 4438043800431769838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d8016b215752ed0800000000000000
+      internalID: -2439414899926856434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad279724d3c5ee10800000000000000
+      internalID: 2226400906769280429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1225e1b9b1a733b0800000000000000
+      internalID: -5532775798275759587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66d687acf67cea0800000000000000
+      internalID: -5852586275350157660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd9e1441b7b9e10800000000000000
+      internalID: 2205491769463397589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b2b7d49b2f48e40800000000000000
+      internalID: 5657913909566974856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09df289df1e43030800000000000000
+      internalID: 3473649691905743117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91831fd8472f810e0800000000000000
+      internalID: -2298821027361114087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d0fb2f3a424d590800000000000000
+      internalID: -7650449580424753838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af613013ac2976d90800000000000000
+      internalID: -7104548490050332934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1084ff1212e4d750800000000000000
+      internalID: 6328931943835795485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129ce4a39f539f50800000000000000
+      internalID: 6886953342911418911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9caec98b3c8b530800000000000000
+      internalID: 3871059077398972840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c83a394dc872240800000000000000
+      internalID: 4766933575232883832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793998202233d5bb0800000000000000
+      internalID: -4945740594618461289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d0c51a4f6d7330800000000000000
+      internalID: 3710244032006378413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a36bb27d376e52a0800000000000000
+      internalID: -6746841678138874970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f48f518e02bac0800000000000000
+      internalID: -3840991583377492597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ca0b6548c17560800000000000000
+      internalID: 7309843870673192515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86482162942bee8b0800000000000000
+      internalID: -5120959699032570776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b44b530d43d3d0800000000000000
+      internalID: -3183115834809339854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bba148e6866e840800000000000000
+      internalID: 5253000839246297959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf22b731fb42d190800000000000000
+      internalID: -7939199693707137059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7366fcccd1ff5530800000000000000
+      internalID: 3846058537431491454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c5d8d5581efa20800000000000000
+      internalID: 3097940350666656222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32d9266a6cf9000800000000000000
+      internalID: 44972939218330533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f3c8890fb6ff90800000000000000
+      internalID: -6920133729738033070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0298e3df8185b0800000000000000
+      internalID: -5367851140546163972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4f2aaf2f3af140800000000000000
+      internalID: 4754181830594219978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7e8cb4c367e8e0800000000000000
+      internalID: -1664251840661914335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69250ee91d0c0c0800000000000000
+      internalID: -4557412342600395098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8bc9488101cbd00800000000000000
+      internalID: 989683715604789452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fd9c6e117a7f00800000000000000
+      internalID: 1115328233212867174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e69d39861501410800000000000000
+      internalID: 1445744989984878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5efd7f0325eca10800000000000000
+      internalID: 1931571660459074991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc39d2c5f80a310800000000000000
+      internalID: 1414287909058760631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899aac1013d7d750800000000000000
+      internalID: 6329759867446401415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7f8bc4c02c2c20800000000000000
+      internalID: 3182955066244956122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dbdc102ebfb0610800000000000000
+      internalID: 1588640241689673046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff295c3c94ef5330800000000000000
+      internalID: 3701928778400346099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abef4fba10aaa480800000000000000
+      internalID: -8887114877922972766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230aea13de3444a50800000000000000
+      internalID: 6504398447849676850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae84537b164585b0800000000000000
+      internalID: -5366806297229095251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fddeb97778cdf0800000000000000
+      internalID: -159746421994686239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea181ae461dd580800000000000000
+      internalID: -8800853569839190426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2c192dd2f584d0800000000000000
+      internalID: -3132830934074905633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4982de51126d48a60800000000000000
+      internalID: 7675495102536296596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c370862ea219200800000000000000
+      internalID: 184976211595181150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06393d48f20da40800000000000000
+      internalID: 5390861001494323391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dc2fee2135d5430800000000000000
+      internalID: 3773263403589750097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a39bd647298a3f0800000000000000
+      internalID: -889299897650955729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9cc53a796cc7b0800000000000000
+      internalID: -5202667495910237448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8ce1abb2228d10800000000000000
+      internalID: 2126300163343157772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b3b322f0d0c9b00800000000000000
+      internalID: 836557989434047345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc203ef47d000460800000000000000
+      internalID: 7205774199924731078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25306bdba73fb6750800000000000000
+      internalID: 6299396212302152530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b09a15b9b563eb0800000000000000
+      internalID: -4740500835112776953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2051e68ee851f490800000000000000
+      internalID: -7714286905220575188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41d6a0e4b6836f10800000000000000
+      internalID: 2261799549291385163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ab22d2b16606a0800000000000000
+      internalID: -6483387192895100559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da372ef255080d60800000000000000
+      internalID: 7856535403957271248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97bfe2ff76f01270800000000000000
+      internalID: 8219340349348231069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d064065711bb74400800000000000000
+      internalID: 308420783156250125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98359f40de57496f0800000000000000
+      internalID: -678787982974954615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca220842204dd50e0800000000000000
+      internalID: -2279432730712202580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005b6c8764d66370800000000000000
+      internalID: 8315567303188762627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae67ae4d1a2ff900800000000000000
+      internalID: 720340770764582571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05ab6d7003458f0800000000000000
+      internalID: -552764044034289446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2626e891ec59d29d0800000000000000
+      internalID: -2797415081102646686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52040051c9dfef0800000000000000
+      internalID: -72730404955609693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa0f98572df63c30800000000000000
+      internalID: 4338933636450421408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_104
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef86f8d5396f640800000000000000
+      internalID: 5113436456973041157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21345be4bd920f40800000000000000
+      internalID: 5693286279317565743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402c67ac6f75c36d0800000000000000
+      internalID: -3009433733519982076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf5503bbe34e940800000000000000
+      internalID: 5324449633149517036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30170235b8cbb3d50800000000000000
+      internalID: 6718170575734337795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b001cd7845bc890800000000000000
+      internalID: -7436757417182885071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe14ac3543521a20800000000000000
+      internalID: 3031577056009002685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8b8294fa24bb50800000000000000
+      internalID: 6607953783178366736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593496b151b973a0800000000000000
+      internalID: -6667102808831674027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23cf6938f5a3d580800000000000000
+      internalID: -8803510361045089489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6560352700497b10800000000000000
+      internalID: 1979683910638921071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb67441a2f7b69a0800000000000000
+      internalID: -6238753040086111244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540d5da26b3c7db0800000000000000
+      internalID: -4792890608427662242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981a8e084471a650800000000000000
+      internalID: 6242398411342616728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a45b0dbbaeb460800000000000000
+      internalID: 7259428477795082674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3b7210e4e30d80800000000000000
+      internalID: -8285527238397706933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a1a630db0a74cf0800000000000000
+      internalID: -268068919138706788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4422b103d922b2d0800000000000000
+      internalID: -3264500793646898101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb85de35ec9eeb0800000000000000
+      internalID: -4689990677070038028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9845ad14b3375b6e0800000000000000
+      internalID: -1822423775856405367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a49c5ecf993d9670800000000000000
+      internalID: 8547051026343826592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9ae22493982440800000000000000
+      internalID: 4911337658097769603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c324591790a9bff0800000000000000
+      internalID: -19808152521006136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143ccd85cb409e00800000000000000
+      internalID: 1049422025036936211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa643a6f92732700800000000000000
+      internalID: 514380811457555111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6cef331d9341a0800000000000000
+      internalID: -6826439904161141466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6882b2d716a030800000000000000
+      internalID: 3505515553660365977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6e5bfacfdde83d0800000000000000
+      internalID: -3202378207664412967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e3d27c83b3b660800000000000000
+      internalID: 7400456028503139905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72dc4fcc604d490800000000000000
+      internalID: -7722539983683377202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b63dd3f5d5bb8d0800000000000000
+      internalID: -2829565277231682676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b9a73544dc9200800000000000000
+      internalID: 188258678194419764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG DUNGEON VOL 2_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c02a7f9f3880dec0800000000000000
+      internalID: -3544183099900682041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG DUNGEON VOL 2_0: -5895174849087338407
+      RPG DUNGEON VOL 2_1: 8707184618901798706
+      RPG DUNGEON VOL 2_10: 4908547837313415067
+      RPG DUNGEON VOL 2_100: -552764044034289446
+      RPG DUNGEON VOL 2_101: -2797415081102646686
+      RPG DUNGEON VOL 2_102: -72730404955609693
+      RPG DUNGEON VOL 2_103: 4338933636450421408
+      RPG DUNGEON VOL 2_104: 5113436456973041157
+      RPG DUNGEON VOL 2_105: 5693286279317565743
+      RPG DUNGEON VOL 2_106: -3009433733519982076
+      RPG DUNGEON VOL 2_107: 5324449633149517036
+      RPG DUNGEON VOL 2_108: 6718170575734337795
+      RPG DUNGEON VOL 2_109: -7436757417182885071
+      RPG DUNGEON VOL 2_11: 1790037859311801429
+      RPG DUNGEON VOL 2_110: 3031577056009002685
+      RPG DUNGEON VOL 2_111: 6607953783178366736
+      RPG DUNGEON VOL 2_112: -6667102808831674027
+      RPG DUNGEON VOL 2_113: -8803510361045089489
+      RPG DUNGEON VOL 2_114: 1979683910638921071
+      RPG DUNGEON VOL 2_115: -6238753040086111244
+      RPG DUNGEON VOL 2_116: -4792890608427662242
+      RPG DUNGEON VOL 2_117: 6242398411342616728
+      RPG DUNGEON VOL 2_118: 7259428477795082674
+      RPG DUNGEON VOL 2_119: -8285527238397706933
+      RPG DUNGEON VOL 2_12: -809767734039968649
+      RPG DUNGEON VOL 2_120: -268068919138706788
+      RPG DUNGEON VOL 2_121: -3264500793646898101
+      RPG DUNGEON VOL 2_122: -4689990677070038028
+      RPG DUNGEON VOL 2_123: -1822423775856405367
+      RPG DUNGEON VOL 2_124: 8547051026343826592
+      RPG DUNGEON VOL 2_125: 4911337658097769603
+      RPG DUNGEON VOL 2_126: -19808152521006136
+      RPG DUNGEON VOL 2_127: 1049422025036936211
+      RPG DUNGEON VOL 2_128: 514380811457555111
+      RPG DUNGEON VOL 2_129: -6826439904161141466
+      RPG DUNGEON VOL 2_13: 4501743357114862752
+      RPG DUNGEON VOL 2_130: 3505515553660365977
+      RPG DUNGEON VOL 2_131: -3202378207664412967
+      RPG DUNGEON VOL 2_132: 7400456028503139905
+      RPG DUNGEON VOL 2_133: -7722539983683377202
+      RPG DUNGEON VOL 2_134: -2829565277231682676
+      RPG DUNGEON VOL 2_135: 188258678194419764
+      RPG DUNGEON VOL 2_136: -3544183099900682041
+      RPG DUNGEON VOL 2_14: 1676343025706166955
+      RPG DUNGEON VOL 2_15: -5390642988858901922
+      RPG DUNGEON VOL 2_16: -2972153512127276540
+      RPG DUNGEON VOL 2_17: -6384409326789443151
+      RPG DUNGEON VOL 2_18: -8658329482390500046
+      RPG DUNGEON VOL 2_19: -7240374034503284878
+      RPG DUNGEON VOL 2_2: -783618273021911242
+      RPG DUNGEON VOL 2_20: 1335727537499705850
+      RPG DUNGEON VOL 2_21: 3551391287988506729
+      RPG DUNGEON VOL 2_22: 2142412483674377986
+      RPG DUNGEON VOL 2_23: 8484822503218459526
+      RPG DUNGEON VOL 2_24: 6053585521383742908
+      RPG DUNGEON VOL 2_25: 4740767103041530886
+      RPG DUNGEON VOL 2_26: 5163598488062885325
+      RPG DUNGEON VOL 2_27: -279176244640688237
+      RPG DUNGEON VOL 2_28: 3914469071488845273
+      RPG DUNGEON VOL 2_29: 5337895649412897851
+      RPG DUNGEON VOL 2_3: 4477574117635639451
+      RPG DUNGEON VOL 2_30: 81316014726794188
+      RPG DUNGEON VOL 2_31: -935131592005160071
+      RPG DUNGEON VOL 2_32: 4438043800431769838
+      RPG DUNGEON VOL 2_33: -2439414899926856434
+      RPG DUNGEON VOL 2_34: 2226400906769280429
+      RPG DUNGEON VOL 2_35: -5532775798275759587
+      RPG DUNGEON VOL 2_36: -5852586275350157660
+      RPG DUNGEON VOL 2_37: 2205491769463397589
+      RPG DUNGEON VOL 2_38: 5657913909566974856
+      RPG DUNGEON VOL 2_39: 3473649691905743117
+      RPG DUNGEON VOL 2_4: 3476167954764766986
+      RPG DUNGEON VOL 2_40: -2298821027361114087
+      RPG DUNGEON VOL 2_41: -7650449580424753838
+      RPG DUNGEON VOL 2_42: -7104548490050332934
+      RPG DUNGEON VOL 2_43: 6328931943835795485
+      RPG DUNGEON VOL 2_44: 6886953342911418911
+      RPG DUNGEON VOL 2_45: 3871059077398972840
+      RPG DUNGEON VOL 2_46: 4766933575232883832
+      RPG DUNGEON VOL 2_47: -4945740594618461289
+      RPG DUNGEON VOL 2_48: 3710244032006378413
+      RPG DUNGEON VOL 2_49: -6746841678138874970
+      RPG DUNGEON VOL 2_5: 4310696492296492729
+      RPG DUNGEON VOL 2_50: -3840991583377492597
+      RPG DUNGEON VOL 2_51: 7309843870673192515
+      RPG DUNGEON VOL 2_52: -5120959699032570776
+      RPG DUNGEON VOL 2_53: -3183115834809339854
+      RPG DUNGEON VOL 2_54: 5253000839246297959
+      RPG DUNGEON VOL 2_55: -7939199693707137059
+      RPG DUNGEON VOL 2_56: 3846058537431491454
+      RPG DUNGEON VOL 2_57: 3097940350666656222
+      RPG DUNGEON VOL 2_58: 44972939218330533
+      RPG DUNGEON VOL 2_59: -6920133729738033070
+      RPG DUNGEON VOL 2_6: 4072437202884560357
+      RPG DUNGEON VOL 2_60: -5367851140546163972
+      RPG DUNGEON VOL 2_61: 4754181830594219978
+      RPG DUNGEON VOL 2_62: -1664251840661914335
+      RPG DUNGEON VOL 2_63: -4557412342600395098
+      RPG DUNGEON VOL 2_64: 989683715604789452
+      RPG DUNGEON VOL 2_65: 1115328233212867174
+      RPG DUNGEON VOL 2_66: 1445744989984878133
+      RPG DUNGEON VOL 2_67: 1931571660459074991
+      RPG DUNGEON VOL 2_68: 1414287909058760631
+      RPG DUNGEON VOL 2_69: 6329759867446401415
+      RPG DUNGEON VOL 2_7: 1737325726179534465
+      RPG DUNGEON VOL 2_70: 3182955066244956122
+      RPG DUNGEON VOL 2_71: 1588640241689673046
+      RPG DUNGEON VOL 2_72: 3701928778400346099
+      RPG DUNGEON VOL 2_73: -8887114877922972766
+      RPG DUNGEON VOL 2_74: 6504398447849676850
+      RPG DUNGEON VOL 2_75: -5366806297229095251
+      RPG DUNGEON VOL 2_76: -159746421994686239
+      RPG DUNGEON VOL 2_77: -8800853569839190426
+      RPG DUNGEON VOL 2_78: -3132830934074905633
+      RPG DUNGEON VOL 2_79: 7675495102536296596
+      RPG DUNGEON VOL 2_8: 107237001629597831
+      RPG DUNGEON VOL 2_80: 184976211595181150
+      RPG DUNGEON VOL 2_81: 5390861001494323391
+      RPG DUNGEON VOL 2_82: 3773263403589750097
+      RPG DUNGEON VOL 2_83: -889299897650955729
+      RPG DUNGEON VOL 2_84: -5202667495910237448
+      RPG DUNGEON VOL 2_85: 2126300163343157772
+      RPG DUNGEON VOL 2_86: 836557989434047345
+      RPG DUNGEON VOL 2_87: 7205774199924731078
+      RPG DUNGEON VOL 2_88: 6299396212302152530
+      RPG DUNGEON VOL 2_89: -4740500835112776953
+      RPG DUNGEON VOL 2_9: -2964218227579418387
+      RPG DUNGEON VOL 2_90: -7714286905220575188
+      RPG DUNGEON VOL 2_91: 2261799549291385163
+      RPG DUNGEON VOL 2_92: -6483387192895100559
+      RPG DUNGEON VOL 2_93: 7856535403957271248
+      RPG DUNGEON VOL 2_94: 8219340349348231069
+      RPG DUNGEON VOL 2_95: 308420783156250125
+      RPG DUNGEON VOL 2_96: -678787982974954615
+      RPG DUNGEON VOL 2_97: -2279432730712202580
+      RPG DUNGEON VOL 2_98: 8315567303188762627
+      RPG DUNGEON VOL 2_99: 720340770764582571
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
